@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+RO:wght@100..400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+RO:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Tagesschrift&display=swap');
 
 body{
   background: #ef3b36; /* fallback for old browsers */
@@ -12,7 +13,7 @@ body{
 	background: -webkit-linear-gradient(to bottom, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
 	background: linear-gradient(to bottom, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-	font-family: "Playwrite RO", cursive;
+	font-family: "Tagesschrift", system-ui;
 	text-align: center;
 	font-size: 3.2rem;
 	color: #D97143;
@@ -20,10 +21,11 @@ body{
 }
 
 .articulo{
-	background: #4DA0B0;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #D39D38, #4DA0B0);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #D39D38, #4DA0B0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+
+background: #36D1DC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	width: 45%;
 	margin: 32px 32px 32px 32px;
 	padding: 16px 16px 16px 16px;
@@ -39,13 +41,13 @@ body{
 }
 
 img{
-	border-radius: 20px;
+	border-radius: 30px;
 	height: 95%;
 }
 
 h2{
 	font-family: "Bebas Neue", sans-serif;
-	color: #D97143;
+	color: #33ffb8;
 	margin: 16px;
 	padding: 8px;
 	width: 15%;
