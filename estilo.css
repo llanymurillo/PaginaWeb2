@@ -3,15 +3,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Tagesschrift&display=swap');
 
 body{
-  background: #ef3b36; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ef3b36, #ffffff); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ef3b36, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+  background: #0cebeb; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 #titulo{
-	background: #0099F7;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to bottom, #F11712, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to bottom, #F11712, #0099F7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+
+  background: #1c92d2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1c92d2, #f2fcfe); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1c92d2, #f2fcfe); 
 
 	font-family: "Tagesschrift", system-ui;
 	text-align: center;
